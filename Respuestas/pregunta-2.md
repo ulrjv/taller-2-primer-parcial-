@@ -1,11 +1,3 @@
-# Pregunta 2
-
-**Nombre:** Javier Turcios  
-**Número:** 56  
-**Grupo:** D
-
-## Insertar documento
-
 ```js
 use biblioteca
 
